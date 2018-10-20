@@ -16,7 +16,7 @@ import (
 )
 ```
 
-I prefer to have more granularity, so that the _rest_ is sepated into 3rd party dependencies and something that I (or the organization that the repo belongs to) created:
+I prefer to have more granularity, so that the _rest_ is separated into 3rd party dependencies and something that I (or the organization that the repo belongs to) created:
 
 ```
 import (
